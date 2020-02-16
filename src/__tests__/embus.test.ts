@@ -1,0 +1,6 @@
+
+describe("EventsBus", () => {
+
+    test("nothing", () => {
+    });
+});
